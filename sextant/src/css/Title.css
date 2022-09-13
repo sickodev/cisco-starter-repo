@@ -1,0 +1,15 @@
+* {
+  font-size: 1.5rem;
+  margin-top: 0%;
+  padding: auto;
+  background-image: linear-gradient(
+    to right,
+    rgb(15, 2, 221),
+    rgb(116, 113, 113)
+  );
+}
+
+.title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
